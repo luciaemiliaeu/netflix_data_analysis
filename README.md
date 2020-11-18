@@ -5,7 +5,7 @@
 Essa é a conclusão da análise que eu desempenhei dos meus dados da Netflix. 
 A conclusão em si não foi novidade para mim, mas os dados foram: eu não tinha noção do tamanho do meu vício. 
 
-##**Detalhes técnicos **
+## Detalhes técnicos
 
 ### Base de dados
 Os dados da Netflix podem ser solicitados pelo usuário através da conta e então são disponibilizados via e-mail. 
