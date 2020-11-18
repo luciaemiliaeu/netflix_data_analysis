@@ -1,4 +1,4 @@
-# **Netflix data Analysis **
+# Netflix data Analysis 
 
 - Oi, meu nome é Lúcia, e eu sou viciada em séries. Mais precisamente em Friends e Grey's Anatomy. 
 
